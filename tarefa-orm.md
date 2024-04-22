@@ -131,3 +131,7 @@ values
 # Resumo sobre ODBC em C# 
 
 ODBC é uma API (Application Programming Interface) que permite que aplicativos em C# (ou qualquer outra linguagem de programação) acessem e manipulem bancos de dados relacionais usando uma interface padronizada. Ele fornece uma camada de abstração entre o aplicativo e o banco de dados, permitindo que diferentes aplicativos se comuniquem com diferentes bancos de dados usando o mesmo conjunto de APIs.
+
+# Resumo sobre ORM em c#
+
+ORM é uma técnica de programação que permite mapear objetos em um código de linguagem de programação para tabelas em um banco de dados relacional. Ele automatiza a tarefa de escrever consultas SQL manualmente, permitindo que os desenvolvedores manipulem dados usando objetos de linguagem de programação diretamente, em vez de lidar com SQL. Existem várias opções de frameworks ORM em C#, como Entity Framework, NHibernate, Dapper, entre outros.
