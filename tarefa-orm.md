@@ -1,5 +1,5 @@
  
- #criação o banco
+ # criação o banco
 
  CREATE DATABASE atividade_db
     WITH
