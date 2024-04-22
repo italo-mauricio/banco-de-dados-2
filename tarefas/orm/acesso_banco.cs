@@ -9,7 +9,7 @@ namespace AcessoBancoDados
         static void Main(string[] args)
         {
 
-            string connectionString = "Driver={PostgreSQL Unicode};Server=localhost;Port=5432;Database=AtividadesBD;Uid=italo;Pwd=teste123;";
+            string connectionString = "Driver={PostgreSQL Unicode};Server=localhost;Port=5432;Database=AtividadesBD;Uid=postgres;Pwd=teste12;";
 
             using (OdbcConnection connection = new OdbcConnection(connectionString))
             {
