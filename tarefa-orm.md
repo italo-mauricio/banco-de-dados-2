@@ -127,3 +127,7 @@ values
 ('BD - Atividade 3', 3, '2018-08-26', '2018-09-30'),
 ('ES - Atividade 1', 4, '2018-09-30', '2018-10-30'),
 ('ES - Atividade 2', 4, '2018-06-26', '2018-07-30');
+
+# Resumo sobre ODBC em C# 
+
+ODBC é uma API (Application Programming Interface) que permite que aplicativos em C# (ou qualquer outra linguagem de programação) acessem e manipulem bancos de dados relacionais usando uma interface padronizada. Ele fornece uma camada de abstração entre o aplicativo e o banco de dados, permitindo que diferentes aplicativos se comuniquem com diferentes bancos de dados usando o mesmo conjunto de APIs.
